@@ -1,11 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mariomos.com" resolutions="1x" timestamp="1532466819796">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mariomos.com" resolutions="1x" timestamp="1532483628426">
   <folder name="assets">
     <file name="email-01.eps" crc="4077674627" seo="true" mt="1532462116000"/>
     <file name="mixcloud-icon-01.eps" crc="510411836" seo="true" mt="1532462083000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="397475936" ref="index"/>
+    <file name="index.css" crc="67874761" ref="index"/>
+    <file name="nomq_index.css" crc="154774602" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,68 +15,155 @@
     <file name="museconfig.js" crc="4286661555" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
   </folder>
   <folder name="images">
     <file name="mariomos-music-favicon.ico" crc="271415582" ref="index"/>
     <file name="u450-4.png" crc="150077055" ref="index"/>
     <file name="logo_mariomos.svg" crc="502808898" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="logo_mariomos_poster_.png" crc="3951428822" ref="index"/>
     <file name="facebook.svg" crc="4056259711" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="facebook_poster_.png" crc="466008173" ref="index"/>
     <file name="twitter.svg" crc="4213014683" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="twitter_poster_.png" crc="241518774" ref="index"/>
     <file name="instagram.svg" crc="4270975316" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="instagram_poster_.png" crc="3893791664" ref="index"/>
     <file name="soundcloud.svg" crc="531325482" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="soundcloud_poster_.png" crc="131575610" ref="index"/>
     <file name="cloud-logo.svg" crc="341780369" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="cloud-logo_poster_.png" crc="135327197" ref="index"/>
     <file name="beatport.svg" crc="4067338685" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="beatport_poster_.png" crc="4074349486" ref="index"/>
     <file name="spotify.svg" crc="4171989627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="spotify_poster_.png" crc="200417655" ref="index"/>
     <file name="difm.svg" crc="3912646002" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="difm_poster_.png" crc="4279118318" ref="index"/>
     <file name="envelope.svg" crc="3917418728" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="envelope_poster_.png" crc="329725630" ref="index"/>
-    <file name="midnightcoast.jpg" crc="4185714005" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="envelope_poster_.png" crc="329725630" ref="index"/>
     <file name="synthcollective.jpg" crc="482197474" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="solunamusic.jpg" crc="4244704245" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="phw.jpg" crc="404903500" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="emergentshores.jpg" crc="3843395295" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="pineappledigital.jpg" crc="22457447" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
+    <file name="midnightcoast copia.jpg" crc="3975480140" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u450-42.png" crc="150077055" ref="index"/>
+    <file name="u450-43.png" crc="150077055" ref="index"/>
+    <file name="u450-44.png" crc="150077055" ref="index"/>
+    <file name="u450-45.png" crc="150077055" ref="index"/>
+    <file name="u450-46.png" crc="150077055" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="291092518" seo="true" mt="1532466786150" redirect="true"/>
+  <file name="index.html" crc="58622240" seo="true" mt="1532482083711" redirect="true"/>
 </manifest>

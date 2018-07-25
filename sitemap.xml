@@ -36,9 +36,6 @@
       <image:loc>http://mariomos.com/images/envelope.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://mariomos.com/images/midnightcoast.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://mariomos.com/images/synthcollective.jpg</image:loc>
     </image:image>
     <image:image>
@@ -52,6 +49,9 @@
     </image:image>
     <image:image>
       <image:loc>http://mariomos.com/images/pineappledigital.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mariomos.com/images/midnightcoast%20copia.jpg</image:loc>
     </image:image>
   </url>
   <url>
